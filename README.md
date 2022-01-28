@@ -31,8 +31,8 @@ For users of [Insomnia](https://insomnia.rest), you can import our API methods [
 
 ## Calls
 
-- ####[Aitum](Aitum.md)
-- ####[Twitch](Twitch.md)
+- [Aitum](Aitum.md)
+- [Twitch](Twitch.md)
 
 ## Response format
 
